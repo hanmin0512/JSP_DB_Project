@@ -9,3 +9,4 @@
 
 ## aws의 ubuntu 서버에 WAS 운영
 - apache-tomcat8.5를 사용하여 WAS 운영하였습니다.
+<img width="219" alt="스크린샷 2022-10-27 오전 1 41 22" src="https://github.com/hanmin0512/my_project/assets/37041208/b77d6e16-9eb1-4bb8-a755-90e249c5bb4a">
