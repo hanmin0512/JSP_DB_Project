@@ -22,7 +22,6 @@
 ![E-R 다이어그램](https://github.com/hanmin0512/my_project/assets/37041208/1aaf53c7-daa3-4e72-9635-9d0c5a73660a)
 
 ## 실행 화면
-- ![WAS 서버 apache-tomcat 실행](https://github.com/hanmin0512/my_project/assets/37041208/a6e5ce53-21a5-4085-a7de-903c65d61e2f)
 - ![웹페이지 로그인 화면](https://github.com/hanmin0512/my_project/assets/37041208/0f31c5e0-ef8d-44dc-b9ef-acf2c5f21fc6)
 - ![회원가입 화면](https://github.com/hanmin0512/my_project/assets/37041208/fbdd83a7-e319-4ea5-ab25-76fdf821c8bc)
 - ![예약전 클라이언트 개인 화면](https://github.com/hanmin0512/my_project/assets/37041208/5dfe4db9-87b5-4bc7-8b20-cbb283ad5d65)
