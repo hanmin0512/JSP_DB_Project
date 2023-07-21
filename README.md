@@ -22,17 +22,17 @@
 ![E-R 다이어그램](https://github.com/hanmin0512/my_project/assets/37041208/1aaf53c7-daa3-4e72-9635-9d0c5a73660a)
 
 ## 실행 화면
-- ![웹페이지 로그인 화면](https://github.com/hanmin0512/my_project/assets/37041208/0f31c5e0-ef8d-44dc-b9ef-acf2c5f21fc6)
-- ![회원가입 화면](https://github.com/hanmin0512/my_project/assets/37041208/fbdd83a7-e319-4ea5-ab25-76fdf821c8bc)
-- ![예약전 클라이언트 개인 화면](https://github.com/hanmin0512/my_project/assets/37041208/5dfe4db9-87b5-4bc7-8b20-cbb283ad5d65)
-- ![좌석 목록 테이블](https://github.com/hanmin0512/my_project/assets/37041208/0766d2c2-4efc-4dce-8747-31bdf69a03ef)
-- ![1번 좌석 예약 가능한 목록 테이블](https://github.com/hanmin0512/my_project/assets/37041208/212c9439-61b8-48e7-b0ef-a334d4b5a368)
-- ![예약 완료시 클라이언트 개인 화면 동시간대 다른 좌석 예약 불가](https://github.com/hanmin0512/my_project/assets/37041208/184f67b5-a530-46b3-b084-13367bec3db3)
-- ![예약 시간 지나지 않았을때 취소 가능](https://github.com/hanmin0512/my_project/assets/37041208/2f282013-88c5-4c63-9721-ac764e2bc1cd)
-- ![admin 계정 1차 로그인](https://github.com/hanmin0512/my_project/assets/37041208/5de00c02-eafe-4f75-a048-b12989c9de4d)
-- ![admin 계정 2차 로그인 sha-256으로 암호화 되어 DB에 저장되어있음.](https://github.com/hanmin0512/my_project/assets/37041208/85bf8b2e-b963-4d46-b7a6-baebd7386081)
-- ![모든 예약정보 및 날짜별 조회 가능](https://github.com/hanmin0512/my_project/assets/37041208/7c40681b-9b56-4dd9-9eb1-91553887fd39)
-- ![날짜별 조회 정보](https://github.com/hanmin0512/my_project/assets/37041208/b34d0e10-3479-4599-b039-b644bc2b9631)
+- 웹페이지 로그인 화면 ![웹페이지 로그인 화면](https://github.com/hanmin0512/my_project/assets/37041208/0f31c5e0-ef8d-44dc-b9ef-acf2c5f21fc6)
+- 회원가입 화면 ![회원가입 화면](https://github.com/hanmin0512/my_project/assets/37041208/fbdd83a7-e319-4ea5-ab25-76fdf821c8bc)
+- 예약전 클라이언트 개인 화면 ![예약전 클라이언트 개인 화면](https://github.com/hanmin0512/my_project/assets/37041208/5dfe4db9-87b5-4bc7-8b20-cbb283ad5d65)
+- 좌석 목록 테이블 ![좌석 목록 테이블](https://github.com/hanmin0512/my_project/assets/37041208/0766d2c2-4efc-4dce-8747-31bdf69a03ef)
+- 좌석 예약 가능한 목록 테이블 ![1번 좌석 예약 가능한 목록 테이블](https://github.com/hanmin0512/my_project/assets/37041208/212c9439-61b8-48e7-b0ef-a334d4b5a368)
+- 예약 완료시 클라이언트 개인 화면 동시간대 다른 좌석 예약 불가 ![예약 완료시 클라이언트 개인 화면 동시간대 다른 좌석 예약 불가](https://github.com/hanmin0512/my_project/assets/37041208/184f67b5-a530-46b3-b084-13367bec3db3)
+- 예약 시간 지나지 않았을때 취소 가능 ![예약 시간 지나지 않았을때 취소 가능](https://github.com/hanmin0512/my_project/assets/37041208/2f282013-88c5-4c63-9721-ac764e2bc1cd)
+- admin 계정 1차 로그인 ![admin 계정 1차 로그인](https://github.com/hanmin0512/my_project/assets/37041208/5de00c02-eafe-4f75-a048-b12989c9de4d)
+- admin 계정 2차 로그인 sha-256으로 암호화 되어 DB에 저장되어있음. ![admin 계정 2차 로그인 sha-256으로 암호화 되어 DB에 저장되어있음.](https://github.com/hanmin0512/my_project/assets/37041208/85bf8b2e-b963-4d46-b7a6-baebd7386081)
+- 관리자 : 모든 예약정보 및 날짜별 조회 가능 ![모든 예약정보 및 날짜별 조회 가능](https://github.com/hanmin0512/my_project/assets/37041208/7c40681b-9b56-4dd9-9eb1-91553887fd39)
+- 관리자 : 날짜별 조회 정보![날짜별 조회 정보](https://github.com/hanmin0512/my_project/assets/37041208/b34d0e10-3479-4599-b039-b644bc2b9631)
 
 
 
