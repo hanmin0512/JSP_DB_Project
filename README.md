@@ -1,4 +1,4 @@
-# my_project
+# JSP로 구현한 DB Project
 ### DB 프로젝트 웹 어플리케이션
 ## 사용한 언어 java(back-end)
 - java의 JSP를 사용하여 웹 어플리케이션을 구현하였습니다.
